@@ -1,4 +1,31 @@
-# Getting Started with Create React App
+# React-test-task-app 
+
+# You're welcome
+
+
+[It's a link to a website that I made](Link)
+
+[It's a link to the layout](https://docs.google.com/document/d/1cJrFlpiC-vUOLYGzGzFe6C6bQYuwEDauEgftfLWf0j8/edit)
+
+What was I supposed to do?  **There are all items** :point_down:
+
+:pushpin: Task #1
+
+Create a following gallery UI using ReactJS
+Input data:
+Headline: “Top commented.”
+Gallery:
+Image: (key: “thumbnail”)
+Title: (key: “title”)
+Number of comments: (key: “num_comments”)
+Link: (key: “permalink”)
+
+(![image](https://user-images.githubusercontent.com/79521676/150394538-4c0d7bde-8107-4580-b80d-e91ddb157f9b.png)
+)
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
