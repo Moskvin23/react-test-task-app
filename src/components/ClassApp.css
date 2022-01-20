@@ -1,0 +1,52 @@
+body {
+    background-color: #f6f6f6;
+}
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+}
+input {
+    width: 80%;
+}
+
+.upperContent h2{
+    color: orange;
+}
+
+.upperContent .currentFilter {
+    color: orange;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+.lowerContent {
+    padding-left: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.withoutResult {
+    padding-left: 30px;
+    font-size: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.upperContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.upperContent .col {
+    display: flex;
+   
+}
+.upperContent .btn {
+    margin: 20px;
+}
