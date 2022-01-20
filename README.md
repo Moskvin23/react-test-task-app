@@ -12,12 +12,19 @@ What was I supposed to do?  **There are all items** :point_down:
 :pushpin: Task #1
 
 :pushpin: Create a following gallery UI using ReactJS
+
 :pushpin: Input data:
+
 :pushpin: Headline: “Top commented.”
+
 :pushpin: Gallery:
+
 :pushpin: Image: (key: “thumbnail”)
+
 :pushpin: Title: (key: “title”)
+
 :pushpin: Number of comments: (key: “num_comments”)
+
 :pushpin: Link: (key: “permalink”)
 
 ![image](https://user-images.githubusercontent.com/79521676/150394538-4c0d7bde-8107-4580-b80d-e91ddb157f9b.png)
