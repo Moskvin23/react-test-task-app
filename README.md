@@ -30,6 +30,53 @@ What was I supposed to do?  **There are all items** :point_down:
 ![image](https://user-images.githubusercontent.com/79521676/150394538-4c0d7bde-8107-4580-b80d-e91ddb157f9b.png)
 
 
+:pushpin: Task #2
+
+Build an application using ReactJS. An application itself should be a custom image gallery. Images should be taken from Reddit: https://www.reddit.com/r/reactjs:
+
+All the data should be fetched using the following JSON: https://www.reddit.com/r/reactjs.json?limit=100
+
+Display “Loading...” status while data for the gallery is loading
+
+Display comments number inside each image as shown on the screenshot. Take it from data.num_comments.
+
+Add Reddit link next to comments counter. Take it from data.permalink.
+
+Sort all images by a number of comments per each image (as shown on a screenshot).
+
+![image](https://user-images.githubusercontent.com/79521676/150395270-16c69da3-67d1-4dde-b118-3c6ee14e0e93.png)
+
+ 
+ :pushpin: Task #3
+ 
+Add auto-refresh feature:
+
+When pressing “Start auto-refresh” button the application should update all image posts in a gallery every 3 seconds. The button changes to “Stop auto-refresh” when pressed.
+
+When pressing “Stop auto-refresh” button the application should stop refreshing data every 3 seconds
+
+Make sure sorting works with this feature
+
+![image](https://user-images.githubusercontent.com/79521676/150395376-85dcc050-e30d-485c-bdd2-e8720af524b8.png)
+
+
+:pushpin: Task #4
+
+Add comments filter:
+
+Add a range slider that filters all gallery image posts by comments number without passing any additional requests
+
+Make sure that sorting works as expected when using the slider
+
+Make sure auto-refresh feature works when using the slider
+
+Display “No results found matching your criteria” message if no image posts found
+
+![image](https://user-images.githubusercontent.com/79521676/150395483-4ed4905d-6e0a-4dde-8ee4-2efcc8ff030f.png)
+
+
+
+
 
 
 
